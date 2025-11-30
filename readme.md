@@ -70,7 +70,7 @@ The "Anchor" method identifies the "Root Log Session" of a particular solution, 
 >
 > View the Anchor-based analysis above.
 > 
-> Run the "PING.EXE" detected in the EDR and the log,
+> Detected the "PING.EXE" in the EDR log,
 > After that, the sensor in the NDR will detect packet traffic sessions (session enforcement) for the unconnected protocol, which is ICMP. 
 >
 > *You can check the order.
