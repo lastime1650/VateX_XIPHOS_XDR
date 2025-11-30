@@ -22,12 +22,6 @@
 
 ---
 
-## Structure
-
-![initial](https://github.com/lastime1650/VATEX_NOVA_AI/blob/main/VATEX_NOVA_AI_V3.png)
-
----
-
 **XIPHOS** means *sword* in Latin — symbolizing precision and defense.  
 Our Extended Detection and Response platform integrates endpoint, network, and application data into a unified, proactive defense system — cutting through threats with unparalleled accuracy and automation. 🤖🛡️
 
@@ -76,6 +70,8 @@ The "Anchor" method identifies the "Root Log Session" of a particular solution, 
 >
 > View the Anchor-based analysis above.
 > 
-> Run "PING.EXE" in EDR,
-> After that, you can check the sequence detected by the sensor in the NDR.
+> Run the "PING.EXE" detected in the EDR and the log,
+> After that, the sensor in the NDR will detect packet traffic sessions (session enforcement) for the unconnected protocol, which is ICMP. 
 >
+> *You can check the order.
+> 
